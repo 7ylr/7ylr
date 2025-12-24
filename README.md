@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there  
 
-<!--
-**7ylr/7ylr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tyler, a software engineer based in Ohio.
 
-Here are some ideas to get you started:
+I design and build whatever I can imagine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea pops into my head, chances are I'll build it and ship it.
+
+I work mostly on game design & app development stuff -- Xcode, Godot, and Aseprite for animation.
+
+I also dabble in web development -- React, Typescript, and Framer Motion.
+
+##
+**Tools & Tech**
+
+* GDScript, Swift, React, Typescript
+* Aseprite & Framer Motion for animations and artwork
+* Xcode, Godot, Visual Studio Code
+##
+**A Bit About Me**
+
+* I love chocolate & coffee
+* I enjoy late nights playing video games
+* I'm an avid hiker and photographer
+* I like building things that are simple, useful, and easy to understand
