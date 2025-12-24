@@ -8,12 +8,12 @@ If an idea pops into my head, chances are I'll build it and ship it.
 
 I work mostly on game design & app development stuff -- Xcode, Godot, and Aseprite for animation.
 
-I also dabble in web development -- React, Typescript, and Framer Motion.
+I also dabble in web development -- React, Typescript, TailwindCSS and Framer Motion.
 
 ##
 **Tools & Tech**
 
-* GDScript, Swift, React, Typescript
+* GDScript, Swift, React, Typescript, TailwindCSS
 * Aseprite & Framer Motion for animations and artwork
 * Xcode, Godot, Visual Studio Code
 ##
